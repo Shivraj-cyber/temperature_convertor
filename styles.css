@@ -1,5 +1,5 @@
 body {
-  background: orange;
+  padding: 50px 100px;
 }
 
 h1 {
@@ -9,6 +9,7 @@ h1 {
 
 #container {
   text-align: center;
+  background-color: lightgoldenrodyellow;
   margin-top: 50px;
 }
 
